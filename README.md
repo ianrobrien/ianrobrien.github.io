@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD041 -->
+
 ### Hi there 👋
 
 I'm a software engineer based in Oslo, Norway. I've been interested in

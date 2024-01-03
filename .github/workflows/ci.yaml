@@ -25,15 +25,13 @@ jobs:
 
   lint:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      statuses: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          # Full git history is needed to get a proper list of changed files
-          # within `super-linter`
-          fetch-depth: 0
       - uses: super-linter/super-linter/slim@v5.7.2
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IGNORE_GENERATED_FILES: true
-          SUPPRESS_POSSUM: true
