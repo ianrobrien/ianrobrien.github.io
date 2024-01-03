@@ -8,6 +8,6 @@
   "AllowedContentTypes": [],
   "PassedFiles": [],
   "Disable": {
-    "MaxLineLength": false
+    "MaxLineLength": true
   }
 }
