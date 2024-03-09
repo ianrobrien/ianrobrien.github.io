@@ -28,7 +28,6 @@ Engineering and Applied Science in Binghamton, NY.
 _Does not include professional/organizational activities_
 
 <picture>
-  <source
   <img height=200 align="center" src= "https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&disable_animations=true"/>
 </picture>
 <picture>
