@@ -39,4 +39,5 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           IGNORE_GENERATED_FILES: true
+          MARKDOWN_CONFIG_FILE: .markdown-lint.yaml
           SUPPRESS_POSSUM: true
