@@ -22,10 +22,3 @@ Engineering and Applied Science in Binghamton, NY.
 
 - 🇺🇸 English (Native)
 - 🇳🇴 Norwegian (Proficient)
-
-### GitHub Stats
-
-_Does not include professional/organizational activities_
-
-<img height=200 align="center" src= "https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&card_width=364&disable_animations=true"/>
-<img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api/top-langs?username=ianrobrien&layout=compact&langs_count=8&card_width=364&disable_animations=true" />
