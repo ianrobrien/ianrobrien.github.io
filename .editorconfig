@@ -36,3 +36,6 @@ ij_yaml_spaces_within_brackets = true
 
 [.gitignore]
 max_line_length = off
+
+[CNAME]
+insert_final_newline = false
