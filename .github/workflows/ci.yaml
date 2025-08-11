@@ -13,7 +13,7 @@ jobs:
   vale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: errata-ai/vale-action@reviewdog
         with:
           fail_on_error: true
@@ -29,7 +29,7 @@ jobs:
       packages: read
       statuses: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           # Full git history is needed to get a proper list of changed files
           # within `super-linter`
