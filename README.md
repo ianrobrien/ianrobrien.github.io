@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD013 MD036 MD041 MD045 -->
+
 ### Hi there 👋
 
 I'm a software engineer based in Norway. I've been interested in
@@ -14,8 +15,9 @@ Engineering and Applied Science in Binghamton, NY.
 
 #### My hobbies are
 
-- 🎸 Playing the guitar
+- 🎸🎷 Playing the guitar and saxophone
 - 🎮 Video games
+- 🏎️ Remote control cars
 - 🔓 Hardware and electronics modification/hacking
 
 #### I speak
