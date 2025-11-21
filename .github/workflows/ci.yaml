@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
       - uses: errata-ai/vale-action@d89dee975228ae261d22c15adcd03578634d429c
@@ -31,7 +31,7 @@ jobs:
       packages: read
       statuses: write
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           # Full git history is needed to get a proper list of changed files
           # within `super-linter`
