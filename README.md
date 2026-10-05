@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD036 MD041 MD045 -->
 
-### Hi there 👋
+### Hi there
 
 I'm a software engineer based in Norway. I've been interested in
 computers, electronics and coding since I was a child, and received my formal
@@ -9,18 +9,18 @@ Engineering and Applied Science in Binghamton, NY.
 
 #### My coding interests are
 
-- 🤖 Automation
-- ⚙️ DevOps
-- 🔒 Security
+- Automation
+- DevOps
+- Security
 
 #### My hobbies are
 
-- 🎸🎷 Playing the guitar and saxophone
-- 🎮 Video games
-- 🏎️ Remote control cars
-- 🔓 Hardware and electronics modification/hacking
+- Playing the guitar and clarinet
+- Video games
+- Remote control cars
+- Hardware and electronics modification/hacking
 
 #### I speak
 
-- 🇺🇸 English (Native)
-- 🇳🇴 Norwegian (Proficient)
+- English (Native)
+- Norwegian (Proficient)
